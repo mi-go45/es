@@ -1,5 +1,6 @@
 # about
-このproject:es(eaglecraft.bySchool)は学校のパソコンでする向けです。家庭で遊ぶ場合などはhttps://mi-go45.github.io/eagecraft/がおすすめです。
+このproject:es(eaglecraft.bySchool)は学校のパソコンでする向けです。家庭で遊ぶ場合などはhttps://mi-go45.github.io/eagecraft/
+がおすすめです。
 
 ## password
 [リンク] (https://mi-go45.github.io/es/)
