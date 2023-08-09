@@ -2,7 +2,7 @@
 このproject:es(eaglecraft.bySchool)は学校のパソコンなど、少しパスワードがかかって欲しい時向けです。家庭で遊ぶ場合などはhttps://mi-go45.github.io/eagecraft/
 がおすすめです。
 
-## password
+## password/play
 [リンク] (https://mi-go45.github.io/es/)
 
 ※パスワードは `bob` です。
