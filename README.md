@@ -1,8 +1,8 @@
-# password
-GitHub Pages などの静的サイトのホスティングサービスで擬似的にパスワード認証をつけるものです。
+# about
+このproject:es(eaglecraft.bySchool)は学校のパソコンでする向けです。家庭で遊ぶ場合などはhttps://mi-go45.github.io/eagecraft/がおすすめです。
 
-## DEMO
-[リンク](https://higurashi-takuto.github.io/password/)
+## password
+[リンク]
 
 ※パスワードは `password` です。
 
