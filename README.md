@@ -7,27 +7,6 @@
 
 ※パスワードは `bob` です。
 
-## ファイル
-- index.html  
-パスワード入力画面です。  
-[サンプル](https://higurashi-takuto.github.io/password/)
-
-- check.html  
-認証に使用するハッシュ値を確認するためのページです。  
-[サンプル](https://higurashi-takuto.github.io/password/check.html)
-
-- style.css  
-スタイルシートで `index.html` / `check.html` 共通のものです。
-
-- padlock.svg  
-ファビコン用画像です。ダークモード対応しています。
-
-- sha256.js  
-SHA-256 を使用するためのライブラリです。
-[jsSHA](https://github.com/Caligatio/jsSHA) を利用しています。
-
-- 5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8/  
-パスワード突破後にアクセスされるディレクトリです。
 
 ## 使い方 / 仕組み
 ハッシュ化されたパスワードをそのままディレクトリ名に利用し、URL の存在の有無で認証を行なっています。
@@ -36,5 +15,6 @@ SHA-256 を使用するためのライブラリです。
 
 ハッシュ化には SHA-256 を使用しており、入力に対するハッシュ値の確認には [check.html](https://higurashi-takuto.github.io/password/check.html) が利用できます。ここで取得できるハッシュ値をディレクトリ名に付けましょう。
 
-## 参考リポジトリ
-[matteobrusa / Password-protection-for-static-pages](https://github.com/matteobrusa/Password-protection-for-static-pages)
+## 使用リポジトリ
+https://github.com/higurashi-takuto/password ←簡易パスワードのレポジトリ
+https://github.com/U5KUN/Eaglercraft-Japanese ←Eaglercraft日本語版のレポジトリ
