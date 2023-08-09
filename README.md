@@ -2,9 +2,9 @@
 このproject:es(eaglecraft.bySchool)は学校のパソコンでする向けです。家庭で遊ぶ場合などはhttps://mi-go45.github.io/eagecraft/がおすすめです。
 
 ## password
-[リンク]
+[リンク] (https://mi-go45.github.io/es/)
 
-※パスワードは `password` です。
+※パスワードは `bob` です。
 
 ## ファイル
 - index.html  
