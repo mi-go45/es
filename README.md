@@ -3,7 +3,8 @@
 がおすすめです。
 
 ## password/play
-[リンク] (https://mi-go45.github.io/es/)(https://es-9ll.pages.dev/)
+[リンク] (https://mi-go45.github.io/es/)
+(https://es-9ll.pages.dev/)
 
 ※パスワードは `bob` です。
 もちろんスマホやタブレットは非対応です。
