@@ -1,0 +1,22 @@
+<html>
+<head>
+</SCRIPT>
+  <h1 style="font-family: Arial;">about:blank lancher</h1>
+</head>
+<body>
+<button onclick="openGame()">lanch!</button>
+<script>
+function openGame() {
+var win = window.open()
+var url = "https://www.google.com/?igu=1"
+var iframe = win.document.createElement('iframe')
+iframe.style.width = "100%";
+iframe.style.height = "100%";
+iframe.style.border = "none";
+iframe.src = url
+win.document.body.appendChild(iframe)
+}
+ 
+</script>
+</body>
+</html>
